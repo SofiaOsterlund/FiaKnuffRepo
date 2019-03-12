@@ -5,6 +5,7 @@ namespace FiaKnuff
     class Program
     {
         static Space[,] gameboard = new Space[11, 11];
+        static Pawn[] pawns = new Pawn[4];
 
         static void Main(string[] args)
         {
