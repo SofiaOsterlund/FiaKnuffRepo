@@ -6,5 +6,6 @@ namespace FiaKnuff
 {
     class Space
     {
+        
     }
 }
