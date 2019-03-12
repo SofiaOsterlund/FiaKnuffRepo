@@ -22,6 +22,12 @@ namespace FiaKnuff
         {
             PrintGame();
             Console.ReadKey(true);
+            bool won = false;
+
+            do
+            {
+
+            } while (!won);
         }
 
         private static void PrintGame()
