@@ -23,8 +23,17 @@ namespace FiaKnuff
         {
             PrintGame();
             Console.ReadKey(true);
+<<<<<<< HEAD
             Console.WriteLine("Hello");
             
+=======
+            bool won = false;
+
+            do
+            {
+
+            } while (!won);
+>>>>>>> ccb3ea06b9ff088fb32b86799cc816e08828a4af
         }
 
         private static void PrintGame()
